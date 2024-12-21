@@ -25,7 +25,7 @@ Bu proje, şirketlerin staj ilanı yayınlayabileceği ve kullanıcıların (ö�
 -VB. 
 
 
-## Kullanılan Teknolojiler
+## Kullanım
 
 -Şirket Kaydı: Şirketler, sisteme kayıt olup giriş yaptıktan sonra staj ilanı oluşturabilir.
 -Kullanıcı Kaydı: Kullanıcılar kayıt olduktan sonra kendilerine uygun staj ilanlarını inceleyebilir ve başvuru yapabilir.
