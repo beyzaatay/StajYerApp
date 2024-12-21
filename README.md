@@ -22,9 +22,10 @@ Bu proje, şirketlerin staj ilanı yayınlayabileceği ve kullanıcıların (ö�
 
 -Flutter
 -MSSQL
--VB. araçlar
+-VB. 
 
-##Kullanım
+
+## Kullanılan Teknolojiler
 
 -Şirket Kaydı: Şirketler, sisteme kayıt olup giriş yaptıktan sonra staj ilanı oluşturabilir.
 -Kullanıcı Kaydı: Kullanıcılar kayıt olduktan sonra kendilerine uygun staj ilanlarını inceleyebilir ve başvuru yapabilir.
