@@ -7,7 +7,7 @@ Bu proje, şirketlerin staj ilanı yayınlayabileceği ve kullanıcıların (ö�
 
 ## Özellikler
 
--Kullanıcılar (User)
+-Kullanıcılar (User) */n
 -Kayıt ve Giriş: Kullanıcılar kolayca hesap oluşturup sisteme giriş yapabilir.
 -Staj İlanlarını İnceleme: Kullanıcılar, şirketlerin yayınladığı staj ilanlarını görüntüleyebilir.
 -Başvuru Yapma: Kullanıcılar, ilgilendikleri staj ilanlarına başvuru yapabilir.
